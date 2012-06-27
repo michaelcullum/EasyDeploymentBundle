@@ -1,4 +1,4 @@
 EasyDeploymentBundle
 ================
 
-Easy Symfony2 application deployment
+This bundle provide an easy way of deploying Symfony2 applications.
